@@ -5,7 +5,7 @@ Tiny Computer-Assisted translation tool. Created for [endcoronavirus.org](https:
 #### Installation
 
 ```
-pip install tinycat
+pip3 install tinycat
 ```
 
 #### Example
